@@ -33,9 +33,3 @@ This repository contains a Jupyter Notebook that demonstrates how to predict cus
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib (for plotting)
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-churn-ann.git
